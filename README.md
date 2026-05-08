@@ -112,4 +112,4 @@ jupyter notebook kobo_mel_pipeline.ipynb
 
 **Author:** Pantouin Adjinsala · University Lecturer & Civic Tech Contributor, AfricTivistes CitizenLab Cameroon  
 **Built from:** Real MEL experience with KoboToolbox across civic and health programmes in Cameroon  
-**Part of:** [AI for Social Good portfolio](https://github.com/YOUR_USERNAME)
+**Part of:** [AI for Social Good portfolio](https://github.com/P-Adjinsala/padjinsala)
